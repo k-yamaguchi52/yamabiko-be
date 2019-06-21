@@ -42,5 +42,5 @@ For more resources on how to configure your new Flask app to do more with Now or
 - [Learn how to configure Now Routes for redirects, caching, and more](https://zeit.co/docs/v2/deployments/routes)
 - [Learn how to alias your deployment to a domain or other unique shareable URLs](https://zeit.co/docs/v2/domains-and-aliases/introduction)
 
-For more information on Flask itself, [see their documentation](http://flask.pocoo.org/docs/).
+For more information on Flask itself, [see their documentation](http://flask.pocoo.org/docs/)!
 
